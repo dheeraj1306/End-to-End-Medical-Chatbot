@@ -81,7 +81,7 @@ The chatbot can answer questions about symptoms, diseases, treatments, and gener
 ### **1. Clone Repository**
 ```bash
 git clone https://github.com/dheeraj1306/End-to-End-Medical-Chatbot
-cd End-to-End-Medical-Chatbot-Generative-AI
+cd End-to-End-Medical-Chatbot
 ```
 
 ### **2. Create Virtual Environment**
